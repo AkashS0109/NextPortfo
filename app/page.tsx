@@ -1,8 +1,8 @@
-import Footer from "@/Components/Footer";
-import Grid from "@/Components/Grid";
-import Hero from "@/Components/Hero";
-import RecentProject from "@/Components/RecentProject";
-import { FloatingNav } from "@/Components/ui/FloatingNav";
+import Footer from "@/components/Footer";
+import Grid from "@/components/Grid";
+import Hero from "@/components/Hero";
+import RecentProject from "@/components/RecentProject";
+import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
 
 
