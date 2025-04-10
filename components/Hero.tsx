@@ -25,7 +25,7 @@ const Hero = () => {
       </h2>
       <TextGenerateEffect className='text-4xl text-center md:text-6xl ' words='Transforming Ideas into User Friendly Full-Stack Web Applications.'/>
       <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl lg:mt-4 mt-4'>
-        Hii I'm Akash Singh, a Full-Stack Developer .
+        Hii I am Akash Singh, a Full-Stack Developer .
       </p>
       <a href='#about'><MagicButton 
                    title='Explore My Work'
@@ -39,4 +39,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;
