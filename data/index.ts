@@ -55,7 +55,7 @@ export const projects = [
     des: "Explore and apply for Jobs and oppurtunities for varoius job profiles",
     img: "/img1.png",
     iconLists: ["/m1.svg", "/m3.svg", "/shadhj.svg", "/mongo.svg", "/node.svg"],
-    link: "https://job-hunt-eosin.vercel.app/",
+    link: "https://jobconnectgit.vercel.app/",
   },
   {
     id: 2,
@@ -71,7 +71,7 @@ export const projects = [
     des: "A cutting-edge E-commerce website offering a diverse clothing collection for men, women, and kids  seamless shopping experience.",
     img: "/edi.png",
     iconLists: ["/html.svg","/javs.svg","/css.svg"],
-    link: "https://e-commerce-website-woad-nine.vercel.app/",
+    link: "https://shopkartwebsite.vercel.app/",
   },
  
 ];
