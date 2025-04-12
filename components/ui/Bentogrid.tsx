@@ -121,7 +121,7 @@ export const BentoGridItem = ({
             </div>
           )}
           {id === 4 && (
-            <div className="p-3 flex  flex-row lg:gap-4 gap-3  mt-3   items-center justify-center  ">
+            <div className="p-3 flex  flex-row lg:gap-4 md:gap-3  gap-2 mt-3   items-center justify-center  ">
              <a href="https://drive.google.com/file/d/1mUTaTFCGdyjBYkJxvXPvbDDgb7a8zc-E/view?usp=drive_link"  target="_blank"> <MagicButton title='Resume'  icon={<FaFileAlt />}  // Example icon
   position="right"  otherClasses=""/></a>
            <a href="https://github.com/AkashS0109" target="_blank" > <MagicButton title='Github'  icon={<FaGithub />}  // Example icon
