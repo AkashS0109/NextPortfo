@@ -27,7 +27,7 @@ Fully Responsive – Optimized for all screen sizes.
 First, clone the repository and install dependencies:
 
 # Clone the repository
-git clone https://github.com/AkashS0109/PortFolio.git
+git clone https://github.com/AkashS0109/NextPortfo.git
 cd your-portfolio
 
 # Install dependencies
