@@ -55,7 +55,7 @@ export const projects = [
     des: "Explore and apply for Jobs and oppurtunities for varoius job profiles",
     img: "/img1.png",
     iconLists: ["/m1.svg", "/m3.svg", "/shadhj.svg", "/mongo.svg", "/node.svg"],
-    link: "https://jobconnectgit.vercel.app/",
+    link: "https://jobconnectkappa.vercel.app/",
   },
   {
     id: 2,
